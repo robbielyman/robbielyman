@@ -9,6 +9,6 @@
   and am interested in learning more about DSP and audio programming.
   I have written several scripts and [SuperCollider](https://supercollider.github.io) engines for the the monome [norns](https://monome.org/docs/norns),
   as well as a [suite](https://github.com/robbielyman/bitters-max) of Max4Live devices.
-- ✏️ I blog from time to time on my [personal website](https://alanza.xyz/blog).
+- ✏️ I blog from time to time on my [personal website](https://alanza.xyz/log).
 - 📫 How to reach me: feel free to email me at rb.lymn@gmail.com, or find me on [mastodon](https://merveilles.town/@alanza).
 - 😄 Pronouns: he/him/his
